@@ -1,0 +1,75 @@
+---
+title: "ITP-Shopify Store - Assignment 2- Store Concept and Initial Shopify Setup"
+author: "Your Name"
+date: June 28,2026
+format: 
+  html: 
+    toc: true
+    toc-depth: 4
+    number-sections: true
+    code-link: true
+    embed-resources: true
+editor: visual
+execute: 
+  freeze: auto
+---
+
+## Store Name and Concept
+
+::: callout-note
+## Practice Store Notice
+
+This is a practice store created for educational purposes only. It does not process real payments or conduct real transactions, and it is not affiliated with or representing the official CPP Farm Store.
+:::
+
+**Farm Store (Practice Store)** is a shop that sells local and organic products. We offer a wide range of private-label goods, including pickled items (garlic, jalapeños, snow peas, beets, quail eggs, carrots, okra), salsas, dips, and nut butters (almond, pumpkin, sweet potato, cherry); preserves (cherry, gala apple, peach, pear, apricot); spreads (red raspberry, rhubarb, cherry, peach); and jellies (apple cider, muscadine, concord), along with sauces and salad dressings. We also carry various snacks such as popcorn, nuts and seeds, candies, dried fruits, and puffs (caramel, butter toffee, cinnamon roll). Our signature offering is curated gift baskets, with an option for customers to personalize their own baskets by picking and choosing the items inside.
+
+## Target Customer
+
+Our target customers are locals who want to share a piece of their community with friends and family, and who take pride in showcasing their local college. More broadly, the target customers are people who live nearby, want local or organic options, are value-conscious, and are drawn to unique products. One key segment is the CPP student, who may shop here simply because it's conveniently located near campus, appealing to both commuter and on-campus students; a student might choose the Farm Store over other on-campus options because they want something organic or healthier. Related segments include alumni, faculty and staff, and local residents who want to support their local college and community.
+
+However, the primary target customer is the local resident with a desire to support local business. This segment is the most valuable to pursue because they are more likely to have disposable income, the time to make the drive, and an interest in purchasing items as gifts, making them an ideal audience for the custom gift baskets. This customer is most likely female, between 35 and 65 years old, married with children, and employed. She is engaged in her community (often through charity or volunteer work), values health and wellness, has a nostalgic appreciation for local and traditional products, and seeks out unique, high-quality items. She is value-conscious rather than price-driven, willing to pay for quality, locally made, and meaningful products, especially when purchasing gifts.
+
+## Product Category Plan
+
+The store will be organized into the following product categories:
+
+| Category | Example Products |
+|------------------------------------|------------------------------------|
+| **Snacks** | Dried fruits, nuts, candies, puffs, popcorn |
+| **Pickled Goods** | Pickled garlic, jalapeños, beets, carrots, okra |
+| **Preserves, Jams & Butters** | Fruit preserves, jellies, nut butters, fruit butters |
+| **Salsas, Dips & Sauces** | Salsas, dips, sauces, salad dressings |
+| **Gift Baskets** | Pre-made curated baskets and customizable build-your-own baskets |
+
+## Initial Shopify Setup Evidence
+
+The screenshots below document the initial setup of the practice Shopify store.
+
+![Shopify admin area](Screenshot 2026-06-28 at 11.26.46 PM.png){#fig-admin}
+
+*Shopify admin dashboard (see @fig-admin).*
+
+![Selected theme](Screenshot 2026-06-28 at 11.26.55 PM.png){#fig-theme}
+
+*Selected store theme (see @fig-theme).*
+
+![Homepage draft / theme customization](Screenshot 2026-06-28 at 11.27.47 PM.png){#fig-homepage}
+
+*Homepage draft and theme customization (see @fig-homepage).*
+
+## Connection to CPP Farm Store
+
+Building this practice store provides direct insight into how these tools could benefit the actual CPP Farm Store. It allows me to practice operating a homepage, organizing products into separate collections, and understanding the behind-the-scenes setup of an online store. This hands-on experience helps me gauge how the technical side of a website works, and lets me experiment with ways to make the store easier for customers to navigate, especially when it comes to displaying and offering the customizable gift baskets, which are central to the consulting project.
+
+## Appendix
+
+::: panel-tabset
+### GitHub Page
+
+<https://michelleeediazzz.github.io/your-repo/>
+
+### GitHub Repo
+
+<https://github.com/MichelleeeDiazzz/your-repo>
+:::
